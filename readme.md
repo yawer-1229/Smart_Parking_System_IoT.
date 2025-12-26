@@ -54,3 +54,8 @@ It utilizes ultrasonic echolocation to detect vehicle presence and controls a **
 
 ## Live Prototype Demo
 ![Working Prototype](Working_prototype.png)
+
+
+https://github.com/user-attachments/assets/3a6485e1-9f85-4668-96c0-a62bd7f4aa71
+
+
