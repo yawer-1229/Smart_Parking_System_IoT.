@@ -53,4 +53,4 @@ It utilizes ultrasonic echolocation to detect vehicle presence and controls a **
 6.  **Run:** Upload to the board to initialize the scanning sequence.
 
 ## Live Prototype Demo
-![Working Prototype](working_prototype.png)
+![Working Prototype](Working_prototype.png)
